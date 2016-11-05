@@ -1,8 +1,15 @@
 /**
  * Site header
  */
+
+ // #9FDF64
+ // #1D6513
+ // #1D6513
+
+$green: #1D6513;
+
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $green;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
 
@@ -167,8 +174,24 @@
 /**
  * Page content
  */
+
+.header-wrapper {
+  height: 70vh;
+}
+
 .page-content {
   padding: $spacing-unit 0;
+}
+
+.home-page-heading {
+  color: white;
+  background-color: #1D6513;
+  font-family: $font;
+  padding: 33px 0 33px 15px;
+  font-size: 100px;
+  word-wrap: break-word;
+  line-height: 81px;
+  margin-bottom: 40px;
 }
 
 .page-heading {
@@ -247,9 +270,9 @@
 
 img.logo {
   width: 50%;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  display: block;
 }
 
 /**
@@ -288,7 +311,9 @@ img.logo {
   width: 50%;
   float: right;
   @include media-query($on-laptop) {
+    float: left;
     width: 90%;
+    margin-top: 20px;
   }
 }
 

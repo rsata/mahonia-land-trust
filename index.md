@@ -14,8 +14,7 @@ rules:
 ---
 
 <img src="/assets/img/branch.png" class="logo"/>
-
-<h1 class="page-heading">Welcome to Mahonia!</h1>
+<h1 class="home-page-heading buffer2">Welcome to Mahonia!</h1>
 
 Mahonia Land Trust Conservancy (MLTC) is a 67 acre property in unincorporated Oregon City, Oregon.  Over 50 acres are forested in various stages of second growth, and the remainder of the property is agricultural lands: pasture, orchards, and row crops.
 
@@ -24,6 +23,11 @@ The property is held in perpetuity as greenspace, serving to promote ecological 
 The land supports two houses, the residents of which serve as land stewards, utilizing the agricultural lands to produce organic produce for themselves and their larger community.
 
 Want to engage deepter with MLTC?  Walk the trails regularly, birdwatch, or observe native plants in the woods.  Come volunteer at our workparties, help out on the farms, join in at a meeting and potluck, and share your skills by participating in our community!
+
+
+
+
+
 
 <div class="buffer2">
   <div class="map-main">
