@@ -7,14 +7,14 @@
 
 # Site settings
 title: Mahonia Land Trust Conservancy
-email: hello@mahonialandtrust.com
+email: hello@mahonialandtrust.org
 description: > # this means to ignore newlines until "baseurl:"
   MLTC is a 67 acre propery in unincorporated Oregon City, Oregon.
   Over 50 acres are forested in various stages of second growth, and
   the remainder of the property is agricultural lands: pasture, orchards, 
   and row crops.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mahonialandtrust.com" # the base hostname & protocol for your site
+url: "http://mahonialandtrust.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
