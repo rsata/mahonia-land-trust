@@ -11,13 +11,12 @@ permalink: /contact/
 ### Berm House - Birds and Bees Community Farm
 
 * **Bev Koch &amp; John Martinson**
-* johnbev@aracnet.com
+* bekoch204@gmail.com (Bev) and farmerjohn204@gmail.com (John)
 
 ### Turtle House - Flying Onion Farm
 
-* **Mark Bassik &amp; Sue Ellen Lewanick**
+* **Mark Bassik**
 * mandroneb@yahoo.com
-* lewanick321@outlook.com    
 
 ### Youth and Student Liaison
 
